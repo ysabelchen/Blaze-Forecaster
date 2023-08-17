@@ -1,4 +1,5 @@
 # Blaze-Forecaster
+PyPI Blaze Forecaster: https://pypi.org/project/blaze-forecaster/#description
 The package employs a combination of time series models: SARIMA and Prophet.
 Stats models and Prophet are required installations to run the Blaze forecaster package.
 
