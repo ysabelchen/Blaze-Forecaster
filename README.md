@@ -1,4 +1,5 @@
 # Blaze-Forecaster
+Medium Article: https://github.com/ysabelchen/Blaze-Forecaster
 PyPI Blaze Forecaster: https://pypi.org/project/blaze-forecaster/#description
 
 The package employs a combination of time series models: SARIMA and Prophet.
